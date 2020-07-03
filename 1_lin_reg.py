@@ -9,7 +9,7 @@ from scipy import stats
 import datetime
 #%matplotlib inline
 
-dataset=pd.read_csv('D:\Karmegam\pgm\ML\Weather.csv',low_memory=False)
+dataset=pd.read_csv('D:\Karmegam\pgm\ML\Weather.csv')
 
 #5
 '''
